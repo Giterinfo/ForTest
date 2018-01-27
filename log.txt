@@ -1,0 +1,73 @@
+commit 9e38b732d63271a10f1334d080ed4ad10c450a0f (HEAD -> master, origin/master)
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 20:31:16 2018 +0100
+
+    Latere edit
+
+commit f2a434d53e601e32d7491a9c06d0f1e0077cb136
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 20:02:29 2018 +0100
+
+    branched
+
+commit f9a061d2116fbcf9ddcd32ed7d85513d8eb3d1a3
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:58:44 2018 +0100
+
+    Voila
+
+commit 188d1375800028d4a413b4fc245e568e9acbe710
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:57:30 2018 +0100
+
+    een naam van deze commit
+
+commit 0f48282268513d82972e9abaaa992ba9e15f6e02
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:55:21 2018 +0100
+
+    Hahahaha
+
+commit 012c3ed40d7fe5b6e26c4b5681a20cc2d82de2c7
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:54:24 2018 +0100
+
+    Haha
+
+commit 627ea8a7cb69be89210dfc9c4d03676dd6027047
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:49:49 2018 +0100
+
+    Bijkomend
+
+commit 02c156c54efa3bebed1f2eb986960ad08dc15c6a
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:42:13 2018 +0100
+
+    Verhuis naar sub
+
+commit 71e636761fb52f7f27c2aa6c39cddd9ba9c6d565
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:41:15 2018 +0100
+
+    Changes
+
+commit 7e5ec194bd3045b7b18deb9af39527eb28c78d3f
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:37:47 2018 +0100
+
+    Uitbreiding
+
+commit ea73989d02ee366adae711303a2bf79398c1b843
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:34:58 2018 +0100
+
+    Gewijzigd
+    
+    Zomaar
+
+commit 41f7a6216ccf183ba47bb0d59c626d64a3b056bb
+Author: Giterinfo <gitnub@terinfo.net>
+Date:   Fri Jan 26 19:30:03 2018 +0100
+
+    Initial commit
